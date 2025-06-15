@@ -1642,5 +1642,5 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### ℹ️ À propos")
     st.write(
-        "Système de planification automatique utilisant l'optimisation par graphes bipartites pour respecter toutes les contraintes.")
+        "Système de planification automatique utilisant l'optimisation par l'algorithme glouton et/ou génétique pour respecter toutes les contraintes.")
 
